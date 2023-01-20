@@ -3,7 +3,7 @@ Todo list with API where user can store and manage his plans todo.
 
 created with React, Typescript, HTML, SCSS.
 
-General features
+# General features
 Error messages
 In case of any error (incl. API) showing notifications with an appropriate message at the bottom.
 
@@ -23,15 +23,3 @@ Add the ability to toggle the completed status of all the todos with the toggleA
 
 Renaming a todo
 Ability to rename a todo title on double click:
-
-Instructions
-no special to use as is. (Just try Link)
-to get local:
-
-Fork the repository
-Clone the forked repo
-Run npm install to install the dependencies
-Create a branch for you solution
-to use locally:
-
-Use npm start to run a development server at http://localhost:3000 (If you need to stop the server press ctrl + c in the terminal window)
